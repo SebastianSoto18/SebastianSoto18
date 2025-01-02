@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚙️ I am currently working at the Center for Software Research and Development (CIDS) at the University of Magdalena, in addition to personal projects. <br>📚 I am currently learning Nestjs and Nextjs.
+⚙️ I am currently working  personal projects. <br>📚 I am currently learning Java and SpringBoot.
 
 
 ## 🌐 Socials:
